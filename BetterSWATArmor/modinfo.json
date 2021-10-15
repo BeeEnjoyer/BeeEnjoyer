@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "swat_unnerf",
+    "name": "Better SWAT Armor",
+    "authors": [ "BeeEnjoyer" ],
+    "maintainers": [ "BeeEnjoyer" ],
+    "description": "Enjoy your (not)new, hole-less SWAT and Riot armor suits.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
